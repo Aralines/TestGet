@@ -1,0 +1,15 @@
+{
+    "idSave": 8,
+    "isFirstSession": true,
+    "language": "ru",
+    "promptDone": false,
+    "money": 6,
+    "newPlayerName": "Hello!",
+    "openLevels": [
+        false,
+        true,
+        false
+    ],
+    "warriorCount": 2,
+    "mageCount": 0
+}
